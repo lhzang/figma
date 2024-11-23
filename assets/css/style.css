@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+/* khoi phuc co chu mac dinh */
+
+body {
+  font-size: 1.6rem;
+  font-family: "Poppins", sans-serif;
+}
+
+/* common */
+
+a {
+  text-decoration: none;
+}
+
+/* header */
+
+.header .body {
+  display: flex;
+}
+
+.nav ul {
+  display: flex;
+}
